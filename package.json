@@ -33,7 +33,7 @@
     "better-sqlite3": "^5.4.3",
     "bs58": "^4.0.1",
     "copyfiles": "^2.1.1",
-    "debug": "^4.1.1",
+    "debug": "^4.3.1",
     "hypercore": "^6.24.0",
     "hypercore-protocol": "^6.12.0",
     "iltorb": "^2.4.3",
